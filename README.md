@@ -1,8 +1,8 @@
 <div align="center">
 
-<h2>
-    <a href="https://github.com/OpenGVLab/RIVER">[ICLR 2026] RIVER: A Real-Time Interaction Benchmark for Video LLMs</a>
-</h2>
+<h1>
+    RIVER: A Real-Time Interaction Benchmark for Video LLMs
+</h1>
 
 <img src="assets/RIVER logo.png" width="80" alt="RIVER logo">
 
@@ -12,15 +12,18 @@
 [Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl), 
 [Yi Wang](https://scholar.google.com/citations?user=Xm2M8UwAAAAJ), 
 [Limin Wang<sup>†</sup>](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)  
-[[🤗 HF Dataset]](https://huggingface.co/datasets/nanamma/RIVER), 
-[[📄 arXiv]](https://arxiv.org/abs/2603.03985)
+[[💻 GitHub]](https://huggingface.co/datasets/nanamma/RIVER), 
+[[🤗 Dataset on HF]](https://huggingface.co/datasets/nanamma/RIVER), 
+[[📄 ArXiv]](https://arxiv.org/abs/2603.03985)
 </div>
 
 
 ## Introduction
-This project introduces **RIVER Bench**, the first benchmark designed to evaluate the real-time interactive capabilities of Video Large Language Models through streaming video perception, featuring novel tasks for memory, live-perception, and proactive response.
+This project introduces **RIVER Bench**, designed to evaluate the real-time interactive capabilities of Video Large Language Models through streaming video perception, featuring novel tasks for memory, live-perception, and proactive response.
 
 ![RIVER](assets/river.jpg)
+
+Based on the frequency and timing of reference events, questions, and answers, we further categorize online interaction tasks into four distinct subclasses, as visually depicted in the figure. For the Retro-Memory, the clue is drawn from the past; for the live-Perception, it comes from the present—both demand an immediate response. For the Pro-Response task, Video LLMs need to wait until the corresponding clue appears and then respond as quickly as possible.
 
 ## Dataset Preparation
 |Dataset       |URL|
