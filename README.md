@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>
+<h2>
     RIVER: A Real-Time Interaction Benchmark for Video LLMs
-</h1>
+</h2>
 
 <img src="assets/RIVER logo.png" width="80" alt="RIVER logo">
 
@@ -12,7 +12,7 @@
 [Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl), 
 [Yi Wang](https://scholar.google.com/citations?user=Xm2M8UwAAAAJ), 
 [Limin Wang<sup>†</sup>](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)  
-[[💻 GitHub]](https://huggingface.co/datasets/nanamma/RIVER), 
+[[💻 GitHub]](https://github.com/OpenGVLab/RIVER), 
 [[🤗 Dataset on HF]](https://huggingface.co/datasets/nanamma/RIVER), 
 [[📄 ArXiv]](https://arxiv.org/abs/2603.03985)
 </div>
