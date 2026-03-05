@@ -1,13 +1,19 @@
 <div align="center">
 
 <h2>
-    <a href="https://arxiv.org/abs/2603.03985">[ICLR 2026] RIVER: A Real-Time Interaction Benchmark for Video LLMs</a>
+    <a href="https://github.com/OpenGVLab/RIVER">[ICLR 2026] RIVER: A Real-Time Interaction Benchmark for Video LLMs</a>
 </h2>
-
-Yansong Shi, Qingsong Zhao, Tianxiang Jiang, Xiangyu Zeng, Yi Wang, Limin Wang
 
 <img src="assets/RIVER logo.png" width="80" alt="RIVER logo">
 
+[Yansong Shi<sup>*</sup>](https://scholar.google.com/citations?user=R7J57vQAAAAJ), 
+[Qingsong Zhao<sup>*</sup>](https://scholar.google.com/citations?user=ux-dlywAAAAJ), 
+[Tianxiang Jiang<sup>*</sup>](https://github.com/Arsiuuu), 
+[Xiangyu Zeng](https://scholar.google.com/citations?user=jS13DXkAAAAJ&hl), 
+[Yi Wang](https://scholar.google.com/citations?user=Xm2M8UwAAAAJ), 
+[Limin Wang<sup>†</sup>](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)  
+[[🤗 HF Dataset]](https://huggingface.co/datasets/nanamma/RIVER), 
+[[📄 arXiv]](https://arxiv.org/abs/2603.03985)
 </div>
 
 
