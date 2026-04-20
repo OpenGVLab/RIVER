@@ -14,7 +14,7 @@
 [Limin Wang<sup>†</sup>](https://scholar.google.com/citations?user=HEuN8PcAAAAJ)  
 [[💻 GitHub]](https://github.com/OpenGVLab/RIVER), 
 [[🤗 Dataset on HF]](https://huggingface.co/datasets/nanamma/RIVER), 
-[[📄 ArXiv]](https://arxiv.org/abs/2603.03985)
+[[📄 arXiv 2603.03985]](https://arxiv.org/abs/2603.03985)
 </div>
 
 
